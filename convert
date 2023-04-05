@@ -1,0 +1,18 @@
+known_face_encoding = [
+    jobs_encoding,
+    tata_encoding,
+    tesla_encoding,
+    diksha_encoding,
+    puneet_encoding
+]
+
+known_face_names = [
+    "jobs",
+    "tata",
+    "tesla",
+    "diksha",
+    "puneet"
+]
+
+for i in known_face_encoding:
+   print(i)
